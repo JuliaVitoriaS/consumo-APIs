@@ -49,3 +49,10 @@ O arquivo **.gitignore** é utilizado para especificar arquivos e diretórios qu
  ~~~
 - O que é o chocolatey (e porque não istalá-lo agora)
  Ele é gerenciador de pacotes para Windows. Ele foi projetado para ser uma estrutura descentralizada para instalar pacotes (aplicativos/ferramentas) mais rapidamente. É muito semelhante ao que temos no mundo Linux, citando os dois gerenciadores de pacotes mais famosos (apt e yum). O Chocolatey é construído sobre a infraestrutura do NuGet, que atualmente usa o PowerShell por debaixo do capô.
+
+
+
+
+
+ Da aula de sexta (10/05):
+ -Instalação de dependencias de projeto com o comando npm install 
